@@ -1,6 +1,6 @@
 Name:		texlive-intopdf
 Version:	63987
-Release:	1
+Release:	2
 Summary:	Embed non-PDF files into PDF with hyperlink
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/intopdf
