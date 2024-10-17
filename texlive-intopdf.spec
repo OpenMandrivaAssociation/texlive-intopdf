@@ -3,7 +3,7 @@ Version:	63987
 Release:	2
 Summary:	Embed non-PDF files into PDF with hyperlink
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/intopdf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/intopdf
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/intopdf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/intopdf.doc.r%{version}.tar.xz
